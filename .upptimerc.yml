@@ -28,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WGLab Upptime
   introTitle: "**WGLab Upptime**"
-  introMessage: **Upptime** monitors various WGLab web servers to ensure that they are online.
+  introMessage: WGLab Upptime monitors various WGLab web servers to ensure that they are online.
   navbar:
     - title: Status
       href: /
