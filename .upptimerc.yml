@@ -17,6 +17,16 @@ sites:
     url: https://doc2hpo.wglab.org
   - name: Phen2Gene
     url: https://phen2gene.wglab.org
+  - name: PDIDB
+    url: https://pdidb.wglab.org
+  - name: wANNOVAR
+    url: https://wannovar.wglab.org
+  - name: Phenolyzer
+    url: https://phenolyzer.wglab.org
+  - name: wInterVar
+    url: https://wintervar.wglab.org
+  - name: CancerVar
+    url: https://cancervar.wglab.org
   - name: Secret Site
     url: $SECRET_SITE
 
