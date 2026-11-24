@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: WGLab # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -13,6 +13,10 @@ sites:
     url: https://pubmind.wglab.org
   - name: PhenoSV
     url: https://phenosv.wglab.org
+  - name: Doc2HPO
+    url: https://doc2hpo.wglab.org
+  - name: Phen2Gene
+    url: https://phen2gene.wglab.org
   - name: Secret Site
     url: $SECRET_SITE
 
@@ -23,13 +27,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WGLab Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**WGLab Upptime**"
+  introMessage: **Upptime** monitors various WGLab web servers to ensure that they are online.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: WGLab
+      href: https://wglab.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
